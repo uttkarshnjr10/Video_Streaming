@@ -1,4 +1,4 @@
-/*
+
 import { Router } from 'express';
 import {
     deleteVideo,
@@ -41,4 +41,3 @@ router
 router.route("/toggle/publish/:videoId").patch(togglePublishStatus);
 
 export default router
-*/
